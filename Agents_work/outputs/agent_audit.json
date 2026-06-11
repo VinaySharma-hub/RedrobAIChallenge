@@ -1,0 +1,2416 @@
+{
+  "jd_analysis": {
+    "must_have_keywords": [
+      "evaluation",
+      "machine learning",
+      "ml",
+      "model",
+      "training"
+    ],
+    "good_to_have_keywords": [],
+    "negative_signals": [
+      "pure research without production evidence",
+      "keyword stuffing",
+      "skills listed without career proof",
+      "too many unrelated technologies",
+      "junior profile for senior JD",
+      "course-only experience",
+      "LLM/RAG mentioned only as buzzword",
+      "AI strategy advisory without hands-on implementation"
+    ],
+    "strong_evidence_phrases": [
+      "built search system",
+      "implemented ranking model",
+      "deployed ml pipeline",
+      "optimized retrieval",
+      "worked on recommender system",
+      "built vector search",
+      "evaluated ranking metrics",
+      "production machine learning",
+      "owned end-to-end model pipeline",
+      "a/b test",
+      "ndcg",
+      "mrr",
+      "map",
+      "index refresh",
+      "embedding drift",
+      "retrieval quality"
+    ],
+    "weak_evidence_phrases": [
+      "completed course",
+      "basic knowledge",
+      "familiar with",
+      "watched tutorials",
+      "certified in",
+      "interested in ai",
+      "worked on mini project",
+      "experimented with chatgpt",
+      "ai strategy advisory"
+    ],
+    "disqualifiers": {
+      "consulting_only": false,
+      "cv_speech_robotics_only": false,
+      "pure_research_only": false,
+      "title_chasers": false,
+      "no_visa_sponsorship": false
+    },
+    "preferences": {
+      "yoe_band": [
+        5,
+        9
+      ],
+      "notice_sub_30_preferred": true,
+      "notice_buyout_ceiling_days": 30,
+      "notice_marginal_ceiling_days": 90,
+      "preferred_locations": [
+        "pune",
+        "noida",
+        "hyderabad",
+        "mumbai",
+        "delhi",
+        "ncr",
+        "gurgaon",
+        "gurugram",
+        "new delhi"
+      ],
+      "country_required_for_no_relocate": "india"
+    }
+  },
+  "audits": [
+    {
+      "candidate_id": "CAND_0002025",
+      "must_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0018499",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "ndcg",
+        "mrr"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0044222",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0050454",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0036184",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [],
+      "skill_only_hits": [
+        "ml",
+        "model"
+      ],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0046525",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test",
+        "ndcg",
+        "mrr"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0062247",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0060054",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0081846",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "ndcg",
+        "mrr",
+        "index refresh",
+        "embedding drift"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0030031",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0030348",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "machine learning",
+        "model"
+      ],
+      "skill_only_hits": [
+        "ml"
+      ],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0079387",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0077337",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "machine learning",
+        "ml"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test",
+        "ndcg",
+        "index refresh",
+        "embedding drift"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0068811",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0075574",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "promote",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0020877",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0037566",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "model"
+      ],
+      "skill_only_hits": [
+        "ml"
+      ],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0010685",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0061257",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0007009",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0027691",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0058575",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [
+        "machine learning"
+      ],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0053695",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0051292",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0075249",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [
+        "machine learning"
+      ],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0061655",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0071974",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0064326",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "promote",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0078002",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0098846",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "promote",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0011687",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test",
+        "ndcg",
+        "mrr"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0042029",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0052682",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0039383",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0037944",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [
+        "machine learning"
+      ],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0083879",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0029367",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0011432",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0079284",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "machine learning",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0017960",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [
+        "machine learning"
+      ],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0054394",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [
+        "machine learning",
+        "ml"
+      ],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0069905",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0091909",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0042506",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "model"
+      ],
+      "skill_only_hits": [
+        "ml"
+      ],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0052328",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0080766",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test",
+        "ndcg",
+        "index refresh",
+        "embedding drift"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "promote",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0051004",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "model"
+      ],
+      "skill_only_hits": [
+        "ml"
+      ],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0081852",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0005649",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0015578",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [
+        "machine learning"
+      ],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0075439",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "model"
+      ],
+      "skill_only_hits": [
+        "ml"
+      ],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0065195",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0041610",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "promote",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0043228",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [
+        "machine learning"
+      ],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0077285",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0046064",
+      "must_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test",
+        "ndcg",
+        "mrr"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0044855",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "model"
+      ],
+      "skill_only_hits": [
+        "ml"
+      ],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0020708",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [],
+      "skill_only_hits": [
+        "model"
+      ],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0053605",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0086022",
+      "must_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test",
+        "ndcg",
+        "mrr"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0093912",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0096172",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0022812",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0054123",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0006567",
+      "must_hits": [
+        "evaluation",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0040117",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0033445",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0057563",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0005260",
+      "must_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "ndcg",
+        "mrr"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0066690",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0041669",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [
+        "machine learning"
+      ],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0066999",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [
+        "machine learning"
+      ],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0049538",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0070398",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0060072",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "machine learning"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0076251",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0097176",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0065878",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [
+        "machine learning"
+      ],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0070525",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0000031",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [
+        "machine learning"
+      ],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0032807",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0092278",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "model"
+      ],
+      "skill_only_hits": [
+        "machine learning",
+        "ml"
+      ],
+      "strong_evidence_hits": [
+        "a/b test",
+        "ndcg",
+        "mrr"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0003977",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "ml"
+      ],
+      "skill_only_hits": [
+        "machine learning"
+      ],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0033179",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0087630",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0068932",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0074735",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [
+        "machine learning"
+      ],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0064270",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [
+        "machine learning"
+      ],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0016659",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0088025",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "ml"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0067866",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0070202",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "machine learning",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0015528",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0094759",
+      "must_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test",
+        "ndcg",
+        "mrr"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0050876",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [
+        "machine learning"
+      ],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0074225",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0025640",
+      "must_hits": [
+        "machine learning",
+        "ml",
+        "model",
+        "training"
+      ],
+      "career_hits": [
+        "ml",
+        "model",
+        "training"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0079064",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "evaluation",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0095528",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    },
+    {
+      "candidate_id": "CAND_0066376",
+      "must_hits": [
+        "evaluation",
+        "machine learning",
+        "ml",
+        "model"
+      ],
+      "career_hits": [
+        "ml",
+        "model"
+      ],
+      "skill_only_hits": [],
+      "strong_evidence_hits": [
+        "a/b test"
+      ],
+      "weak_evidence_hits": [],
+      "risk_flags": [],
+      "recommendation": "keep",
+      "trap_flags": [],
+      "trap_penalty": 0.0
+    }
+  ],
+  "feature_suggestions": {
+    "suggested_rules": [
+      {
+        "rule": "career_evidence_boost",
+        "logic": "Boost candidates with JD keywords in work history more than skills."
+      },
+      {
+        "rule": "behavioral_signal_modifier",
+        "logic": "Multiply the base relevance score by behavioral_signal_score from behavioral_signal_agent (range ~0.0-1.0, baseline 0.5), so that open_to_work, last_active_date recency, recruiter_response_rate, notice_period_days, and location/relocation/visa fit all influence final ranking — not just skill/title relevance."
+      }
+    ]
+  }
+}

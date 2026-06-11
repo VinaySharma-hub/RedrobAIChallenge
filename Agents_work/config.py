@@ -1,0 +1,12 @@
+JD_PATH = "C:\\Users\\Welcome\\OneDrive\\Dokumen\\REDROB_AI_CHALLENGE\\job_description.docx"
+CANDIDATES_PATH = "C:\\Users\\Welcome\\OneDrive\\Dokumen\\REDROB_AI_CHALLENGE\\candidates.jsonl"
+OUTPUT_DIR = "outputs"
+JD_ANALYSIS_PATH = "outputs/jd_analysis.json"
+AGENT_AUDIT_PATH = "outputs/agent_audit.json"
+RANKED_JSON_PATH = "outputs/ranked_top100.json"
+FINAL_CSV_PATH = "outputs/team_redrob_submission.csv"
+USE_LOCAL_EMBEDDINGS = False
+USE_DEV_AGENTS = True
+TOP_K_FOR_AGENT_AUDIT = 100
+TOP_K_FOR_EMBEDDING_RERANK = 3000
+LIMIT_CANDIDATES = None

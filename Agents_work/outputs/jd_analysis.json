@@ -1,0 +1,77 @@
+{
+  "must_have_keywords": [
+    "evaluation",
+    "machine learning",
+    "ml",
+    "model",
+    "training"
+  ],
+  "good_to_have_keywords": [],
+  "negative_signals": [
+    "pure research without production evidence",
+    "keyword stuffing",
+    "skills listed without career proof",
+    "too many unrelated technologies",
+    "junior profile for senior JD",
+    "course-only experience",
+    "LLM/RAG mentioned only as buzzword",
+    "AI strategy advisory without hands-on implementation"
+  ],
+  "strong_evidence_phrases": [
+    "built search system",
+    "implemented ranking model",
+    "deployed ml pipeline",
+    "optimized retrieval",
+    "worked on recommender system",
+    "built vector search",
+    "evaluated ranking metrics",
+    "production machine learning",
+    "owned end-to-end model pipeline",
+    "a/b test",
+    "ndcg",
+    "mrr",
+    "map",
+    "index refresh",
+    "embedding drift",
+    "retrieval quality"
+  ],
+  "weak_evidence_phrases": [
+    "completed course",
+    "basic knowledge",
+    "familiar with",
+    "watched tutorials",
+    "certified in",
+    "interested in ai",
+    "worked on mini project",
+    "experimented with chatgpt",
+    "ai strategy advisory"
+  ],
+  "disqualifiers": {
+    "consulting_only": false,
+    "cv_speech_robotics_only": false,
+    "pure_research_only": false,
+    "title_chasers": false,
+    "no_visa_sponsorship": false
+  },
+  "preferences": {
+    "yoe_band": [
+      5,
+      9
+    ],
+    "notice_sub_30_preferred": true,
+    "notice_buyout_ceiling_days": 30,
+    "notice_marginal_ceiling_days": 90,
+    "preferred_locations": [
+      "pune",
+      "noida",
+      "hyderabad",
+      "mumbai",
+      "delhi",
+      "ncr",
+      "gurgaon",
+      "gurugram",
+      "new delhi"
+    ],
+    "country_required_for_no_relocate": "india"
+  }
+}
