@@ -1,4 +1,4 @@
-e# Redrob Hackathon — TF-IDF + Rule-Based Ranker (Notebook Approach)
+# Redrob Hackathon — TF-IDF + Rule-Based Ranker (Notebook Approach)
 Track: Intelligent Candidate Discovery & Ranking Challenge
 
 This is our **secondary / exploratory approach**, implemented as a single
